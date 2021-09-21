@@ -17,3 +17,35 @@ p.stage_direction:hover{
     background-color: darkkhaki;
     color: firebrick;
 }
+
+h6{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    color:black;
+}
+
+h6.PETER{
+    color: darkcyan;
+}
+
+h6.MICH{
+    color: darkslategray;
+}
+
+table,th,td {
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+}
+
+th{
+    font-size: 30px;
+    background-color: lavender;
+}
+
+tr:nth-child(even){
+    background-color: lightblue;
+}
