@@ -49,3 +49,12 @@ th{
 tr:nth-child(even){
     background-color: lightblue;
 }
+h6.MICH{
+    text-shadow: lightslategray;
+    border-style: outset;
+}
+
+h6.PETER{
+    text-shadow: lightslategray;
+    border-style: outset;
+}
