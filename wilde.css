@@ -13,7 +13,7 @@ p.speech{
 
 }
 
-p.stage_direction:hover{
+p.stage_direction{
     background-color: darkkhaki;
     color: firebrick;
 }
